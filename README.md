@@ -4,7 +4,6 @@
 
 Sou estudante de Desenvolvimento de Sistemas na ETE Porto Digital, com interesse em desenvolvimento web, principalmente front-end, mas buscando me tornar um desenvolvedor full stack. Tenho conhecimento em HTML, CSS, JavaScript, Python, Flask, SQL, Java e Linux.
 Gosto de aprender coisas novas, tenho facilidade com lógica e me considero uma pessoa criativa, técnica e dedicada. Também já participei de projetos em equipe na escola, colaborando no desenvolvimento de soluções e ajudando colegas durante as atividades.
-Além disso, participei de um hackathon da CESAR School, conquistando o 2º lugar com um projeto voltado para a área da saúde.
 
 
 
